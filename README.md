@@ -1,4 +1,4 @@
-# python
+# Python
 practice programs for python
 and some very useful python projects
 
